@@ -17,4 +17,4 @@ Explore the role of research data management policies in guiding the implementat
 
 # Team
 1. Caleb Kibet - Project Lead
-2. 
+2. Audrey Oronda
